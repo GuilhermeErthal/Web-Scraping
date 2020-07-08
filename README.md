@@ -47,22 +47,6 @@ pip install -r requirements.txt
 ```
 python webscraping.py
 ```
-
-## Contributing
-
-Feel free to submitting pull requests to us.
-
-## Authors
-
-* **Gabriel Froes** - *Initial work* - [Twitter](https://www.twitter.com/gabrielfroes)
-* **Vanessa Weber** - *Initial work* - [Twitter](https://www.twitter.com/nessaweberfroes)
-
-## License
-
-This project is licensed under the [GNU General Public License](https://opensource.org/licenses/GPL-3.0).
-
 ## Acknowledgments
 
-* First steps in Python language
-* Create simple and useful things
-* Build content for [Código Fonte TV](https://youtu.be/Vxl5jUltHBo), our Youtube Channel.
+* Build content for [Código Fonte TV](https://youtu.be/Vxl5jUltHBo), Youtube Channel.
